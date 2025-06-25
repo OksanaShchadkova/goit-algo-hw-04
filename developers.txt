@@ -1,0 +1,10 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Alice Smith,3500
+Bob Johnson,2800
+Charlie Brown,4500
+Diana Prince,3200
+Ethan Hunt,2800
+Fiona Gallagher,4100
+George Costanza,2200
